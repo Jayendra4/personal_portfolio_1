@@ -80,7 +80,7 @@ I'm a Full-Stack Software Engineer passionate about building scalable, high-perf
 ## Contact
 
 - **Email**: [jayendrabamne68@gmail.com](mailto:jayendrabamne68@gmail.com)
-- **LinkedIn**: [linkedin.com/in/jayendrabamne](http://www.linkedin.com/in/jayendrabamne)
+- **LinkedIn**: [linkedin.com/in/jayendrabamne04](https://www.linkedin.com/in/jayendrabamne04/)
 - **GitHub**: [github.com/Jayendra4](https://github.com/Jayendra4)
 - **Portfolio**: [https://personal-portfolio-1-psi.vercel.app/](https://personal-portfolio-1-psi.vercel.app/)
 
