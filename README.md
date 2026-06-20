@@ -86,4 +86,4 @@ I'm a Full-Stack Software Engineer passionate about building scalable, high-perf
 
 ---
 
-Built with ❤️ using HTML, CSS, and JavaScript
+
